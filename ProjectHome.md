@@ -1,0 +1,1 @@
+asus\_fan driver was ported from the NHC (notebook hardware control) class. Currently it supports a8j series and was tested on a8jn and a8js.
